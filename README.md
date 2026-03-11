@@ -117,6 +117,6 @@ student-dropout-analysis
 
 ## 👩‍💻 Author
 
-**Lalithya S**
+**Kavya H**
 
 Data Science Project – Student Dropout Analysis
